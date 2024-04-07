@@ -1,2 +1,2 @@
 streamlit
-opencv-contrib-pythob-headless
+opencv-contrib-python-headless
